@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "UiPath.System.Activities.AddDataColumn.AllowDBNull": "True",
   "UiPath.System.Activities.AddDataColumn.AutoIncrement": "False",
@@ -16,4 +17,24 @@
   "UiPath.System.Activities.OrchestratorHTTPRequest.RelativeEndpoint": "",
   "UiPath.System.Activities.RetryScope.NumberOfRetries": "3",
   "UiPath.System.Activities.RetryScope.RetryInterval": "5000"
+=======
+{
+  "UiPath.System.Activities.AddDataColumn.AllowDBNull": "True",
+  "UiPath.System.Activities.AddDataColumn.AutoIncrement": "False",
+  "UiPath.System.Activities.AddDataColumn.MaxLength": "100",
+  "UiPath.System.Activities.AddDataColumn.Unique": "False",
+  "UiPath.System.Activities.ReadTextFile.Encoding": "",
+  "UiPath.System.Activities.WriteTextFile.Encoding": "",
+  "UiPath.System.Activities.AppendLine.Encoding": "",
+  "UiPath.System.Activities.FilterDataTable.FilterRowsMode": "Keep",
+  "UiPath.System.Activities.InvokeWorkflowFile.Timeout": "0",
+  "UiPath.System.Activities.InvokeWorkflowFile.LogEntry": "No",
+  "UiPath.System.Activities.InvokeWorkflowFile.LogExit": "No",
+  "UiPath.System.Activities.LogMessage.Level": "Info",
+  "UiPath.System.Activities.MessageBox.Buttons": "Ok",
+  "UiPath.System.Activities.MessageBox.TopMost": "True",
+  "UiPath.System.Activities.OrchestratorHTTPRequest.RelativeEndpoint": "",
+  "UiPath.System.Activities.RetryScope.NumberOfRetries": "3",
+  "UiPath.System.Activities.RetryScope.RetryInterval": "5000"
+>>>>>>> cc6dda50f7a53e5476f1f2cf9380a1fc9e0c4348
 }

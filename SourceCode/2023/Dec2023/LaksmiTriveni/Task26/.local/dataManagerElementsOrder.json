@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "Workflows": [
     {
@@ -20,4 +21,28 @@
       "AddedNamespaces": null
     }
   ]
+=======
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "guessed&State_3",
+        "randomnumber&State_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+>>>>>>> cc6dda50f7a53e5476f1f2cf9380a1fc9e0c4348
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "Workflows": [
     {
@@ -22,4 +23,30 @@
       "AddedNamespaces": null
     }
   ]
+=======
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "variable1&Sequence_1",
+        "result&Sequence_2",
+        "output&Sequence_2",
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+>>>>>>> cc6dda50f7a53e5476f1f2cf9380a1fc9e0c4348
 }

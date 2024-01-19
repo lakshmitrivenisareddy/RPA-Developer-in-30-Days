@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 {
   "UiPath.CV.Activities.CvScope.CVMethod": "ElementDetection|OCR"
+=======
+{
+  "UiPath.CV.Activities.CvScope.CVMethod": "ElementDetection|OCR"
+>>>>>>> cc6dda50f7a53e5476f1f2cf9380a1fc9e0c4348
 }

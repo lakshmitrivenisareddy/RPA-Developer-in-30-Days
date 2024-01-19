@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "UiPath.Excel.Activities.StartExcel.LaunchExcelMethod": "Automation",
   "UiPath.Excel.Activities.StartExcel.LaunchExcelTimeout": "20",
@@ -9,4 +10,17 @@
   "UiPath.Excel.Activities.ExcelProcessScope.MacroSettings": "EnableAll",
   "UiPath.Excel.Activities.UseExcelFile.ReadFormatting": "Default",
   "UiPath.Excel.Activities.ExcelAutoComplete.ExcelAutoCompleteType": "Default"
+=======
+{
+  "UiPath.Excel.Activities.StartExcel.LaunchExcelMethod": "Automation",
+  "UiPath.Excel.Activities.StartExcel.LaunchExcelTimeout": "20",
+  "UiPath.Excel.Activities.ExcelVisibility.ShowExcelWindow": "True",
+  "UiPath.Excel.Activities.ExcelVisibility.DisplayAlerts": "False",
+  "UiPath.Excel.Activities.ExcelProcessScope.ProcessMode": "ReuseIfExists",
+  "UiPath.Excel.Activities.ExcelProcessScope.ExistingProcessAction": "None",
+  "UiPath.Excel.Activities.ExcelProcessScope.FileConflictResolution": "ThrowException",
+  "UiPath.Excel.Activities.ExcelProcessScope.MacroSettings": "EnableAll",
+  "UiPath.Excel.Activities.UseExcelFile.ReadFormatting": "Default",
+  "UiPath.Excel.Activities.ExcelAutoComplete.ExcelAutoCompleteType": "Default"
+>>>>>>> cc6dda50f7a53e5476f1f2cf9380a1fc9e0c4348
 }

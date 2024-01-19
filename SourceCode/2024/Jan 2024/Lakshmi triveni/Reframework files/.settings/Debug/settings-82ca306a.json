@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "UiPath.Testing.Activities.Generic.KeepScreenshots": "False",
   "UiPath.Testing.Activities.Generic.ScreenshotsPath": "",
@@ -5,4 +6,13 @@
   "UiPath.Testing.Activities.VerifyActivitiesOutputFormat.VerifyExpressionWithOperatorOutputFormat": "",
   "UiPath.Testing.Activities.VerifyActivitiesOutputFormat.VerifyControlAttributeOutputFormat": "",
   "UiPath.Testing.Activities.VerifyActivitiesOutputFormat.VerifyRangeOutputFormat": ""
+=======
+{
+  "UiPath.Testing.Activities.Generic.KeepScreenshots": "False",
+  "UiPath.Testing.Activities.Generic.ScreenshotsPath": "",
+  "UiPath.Testing.Activities.VerifyActivitiesOutputFormat.VerifyExpressionOutputFormat": "",
+  "UiPath.Testing.Activities.VerifyActivitiesOutputFormat.VerifyExpressionWithOperatorOutputFormat": "",
+  "UiPath.Testing.Activities.VerifyActivitiesOutputFormat.VerifyControlAttributeOutputFormat": "",
+  "UiPath.Testing.Activities.VerifyActivitiesOutputFormat.VerifyRangeOutputFormat": ""
+>>>>>>> cc6dda50f7a53e5476f1f2cf9380a1fc9e0c4348
 }

@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "RoboticEnterpriseFrameworktriveni",
   "projectId": "e8bc3744-e576-4af6-80c1-300552490dce",
+=======
+  "name": "REFrameworkSBfiles",
+  "projectId": "4b641487-51c1-4aee-8467-89fb733fbc95",
+>>>>>>> cc6dda50f7a53e5476f1f2cf9380a1fc9e0c4348
   "description": "Robotic Enterprise Framework",
   "main": "Main.xaml",
   "dependencies": {
@@ -45,42 +50,66 @@
     "fileInfoCollection": [
       {
         "editingStatus": "InProgress",
+<<<<<<< HEAD
         "testCaseId": "efd19ead-fa6a-4d53-b079-b375bef00655",
+=======
+        "testCaseId": "2e60b24b-4de6-45f0-8307-ec5443f292e5",
+>>>>>>> cc6dda50f7a53e5476f1f2cf9380a1fc9e0c4348
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "fileName": "Tests\\GetTransactionDataTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
+<<<<<<< HEAD
         "testCaseId": "3d5ceafa-849b-4168-8075-ea4252a29ef6",
+=======
+        "testCaseId": "7cd6c0b6-4f44-4385-bb5a-6f6fdf66b205",
+>>>>>>> cc6dda50f7a53e5476f1f2cf9380a1fc9e0c4348
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "fileName": "Tests\\InitAllApplicationsTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
+<<<<<<< HEAD
         "testCaseId": "e02b9912-249d-4d15-b2ff-617cafcf4b36",
+=======
+        "testCaseId": "c10efa4d-ee54-4642-8e7d-41753af65bbe",
+>>>>>>> cc6dda50f7a53e5476f1f2cf9380a1fc9e0c4348
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "fileName": "Tests\\InitAllSettingsTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
+<<<<<<< HEAD
         "testCaseId": "ffb2bc77-9866-4629-b902-be7be19483df",
+=======
+        "testCaseId": "67305210-d857-43ce-95e1-b9406ffa753e",
+>>>>>>> cc6dda50f7a53e5476f1f2cf9380a1fc9e0c4348
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "fileName": "Tests\\MainTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
+<<<<<<< HEAD
         "testCaseId": "0087d90b-d89f-423a-9915-b2ccfe9bdb8b",
+=======
+        "testCaseId": "bbc6aac4-e2b5-4f60-ac4c-ae6a98017720",
+>>>>>>> cc6dda50f7a53e5476f1f2cf9380a1fc9e0c4348
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "fileName": "Tests\\ProcessTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
+<<<<<<< HEAD
         "testCaseId": "eb6832ec-55de-4ba4-9f8f-8d580c98865f",
+=======
+        "testCaseId": "611e461e-4573-4ed8-b1d4-3a1c05132b0a",
+>>>>>>> cc6dda50f7a53e5476f1f2cf9380a1fc9e0c4348
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "fileName": "Tests\\WorkflowTestCaseTemplate.xaml"
@@ -92,7 +121,11 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
+<<<<<<< HEAD
       "uniqueId": "825d44b9-1f0a-4048-8089-b1e327ebf5ca",
+=======
+      "uniqueId": "c8ac6ce5-bd6c-4233-aa87-1dceefff5ebf",
+>>>>>>> cc6dda50f7a53e5476f1f2cf9380a1fc9e0c4348
       "input": [],
       "output": []
     }

@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {
   "Tags": [],
   "SeparateRuntimeDependencies": true,
   "IncludeSources": true
+=======
+{
+  "Tags": [],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+>>>>>>> cc6dda50f7a53e5476f1f2cf9380a1fc9e0c4348
 }
